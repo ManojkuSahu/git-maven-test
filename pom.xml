@@ -27,7 +27,7 @@
     </plugin>
    </plugins>
    </build>
-  <distributionManagement>
+<!--  <distributionManagement>
     <repository>
         <id>central</id>
         <name>Manoj-releases</name>
@@ -38,5 +38,5 @@
         <name>LALIT-snapshots</name>
         <url>http://localhost:8081/artifactory/example-sample-local</url>
     </snapshotRepository>
-</distributionManagement>
+</distributionManagement> -->
 </project>
